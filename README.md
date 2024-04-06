@@ -44,8 +44,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 
 # Experiment :#  Mean and variance of a discrete  distribution
-# Developed by: Roopak C S
-# Register number: 212223220088
+# Developed by: Kailash Kumar S
+# Register number: 212223220041
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
