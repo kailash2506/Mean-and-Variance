@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+# EXP:1  Mean and variance of a discrete  distribution
 # Developed by: Kailash Kumar S
 # Register number: 212223220041
 # Aim : 
